@@ -2,9 +2,9 @@
 
 
 **downloadd the code i use💻**
-**pip install tkinter**
-**pip install customtkinter**
-**pip install pytube**
+**pip install tkinter.**
+**pip install customtkinter.**
+**pip install pytube.**
 then run the coe i made (main.py) copy paste that and run.
 DONE!
 
