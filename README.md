@@ -1,9 +1,12 @@
 # Youtube-Downloader
 
-**How to downloadd💻**
+**pip install💻**
+First ownloadd the zip.
+Extract zip
+then c
 pip install main.py
 
-**downloadd the coe i use💻**
+**downloadd the code i use💻**
 pip install tkinter
 pip install customtkinter
 pip install pytube
