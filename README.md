@@ -1,9 +1,9 @@
 # Youtube-Downloader
 
-**Setup💻**
+**How to downloadd💻**
 pip install main.py
 
-**Tkinter💻**
+**downloadd the coe i use💻**
 pip install tkinter
 pip install customtkinter
 pip install pytube
